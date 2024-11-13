@@ -8,4 +8,4 @@ I am beginner QA-Engineer (manual tester). I have experience in test analysis, t
 * 🧠  I'm learning Git
 * 🤝  I'm open to collaborating on interesting and cool projects
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomannRoss&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomannRoss&theme=github)
