@@ -1,21 +1,21 @@
-Hi 👋 My name is Roman
+Привет 👋 Меня зовут Роман
 ======================
 
-I am beginner QA-Engineer (manual tester). 
+Я начинающий QA-инженер (ручной тестировщик).
 
-I have experience in test analysis, test case writing and bug reporting. 
+У меня есть опыт в проведении тест-анализа, составлении тест-кейсов и баг-репортов. 
 
-My knowledge also includes working with testing tools such as Devtools, Postman and Jira.
+Мои знания также включают работу с инструментами тестирования, такими как Devtools, Postman и Jira.
 
 My skills:
 ======================
-* Knowledge of test design techniques: equivalence classes, boundary values, pairwise testing
-* Understanding of the software development life cycle (SDLC) and the development process (STLC)
-* Expirience with tools: Devtools (analysis of network requests, debugging), Postman (REST API testing), Jira (maintaining bug reports and tasks)
-* Basic skills in working  with Github: creating new repositories, adding files
-* Knowledge of HTTP methods (GET, POST, PUT, DELETE), response statuses, REST API basics
-* SKills in writing SQL queries (SELECT, JOIN, INSERT) and working with databases to check data
-* B2 level English (reading documentation, compiling reports, communicating in a group)
-* Typing speed 250+ characters per minute
+* Владение техниками тест-дизайна: классы эквивалентности, граничные значения, попарное тестирование
+* Понимание жизненного цикла разработки ПО (SDLC) и процесса тестирования (STLC)
+* Опыт работы с инструментами: DevTools (анализ сетевых запросов, отладка), Postman (тестирование REST API), Jira (ведение баг-репортов и задач)
+* Базовые навыки работы с GitHub: создание новых репозиториев, добавление файлов
+* Знание HTTP методов (GET, POST, PUT, DELETE), статусов ответов, основ REST API
+* Навыки написания SQL-запросов (SELECT, JOIN, INSERT) и работы с базами данных для проверки данных
+* Владение английским языком на уровне B2 (чтение документации, написание отчетов, общение в команде)
+* Скорость печати 250+ знаков в минуту
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomannRoss&theme=github)
